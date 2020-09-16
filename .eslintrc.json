@@ -49,12 +49,12 @@
         "tsx": "never"
       }
     ],
-    "@typescript-eslit/explicit-function-return-type": [
-      "error",
-      {
-        "allowExpressions": true
-      }
-    ],
+    // "@typescript-eslit/explicit-function-return-type": [
+    //   "error",
+    //   {
+    //     "allowExpressions": true
+    //   }
+    // ],
     "camelcase": "off"
   },
   "settings": {
